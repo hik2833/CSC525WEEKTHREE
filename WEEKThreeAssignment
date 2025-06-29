@@ -1,0 +1,5 @@
+my-polynomial-regression-assignment/
+│
+├── salary_data.csv
+├── polynomial_regression_salary_predictor.py
+└── README.md
