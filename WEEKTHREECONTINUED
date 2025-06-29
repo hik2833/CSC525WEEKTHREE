@@ -1,0 +1,16 @@
+# Polynomial Regression Salary Predictor
+
+This assignment demonstrates Polynomial Regression in Python to predict employee salary based on years of experience.
+
+## Files
+
+- `salary_data.csv`: The dataset of years of experience vs. salary.
+- `polynomial_regression_salary_predictor.py`: The executable Python script that:
+  - Loads and visualizes data
+  - Fits Linear and Polynomial Regression models
+  - Compares their predictions
+  - Lets the user predict salary interactively
+
+## How to Run
+
+1. Install dependencies:
